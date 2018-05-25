@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OneKeyMusicApp</string>
+    <string name="app_name_settings">Settings OneKeyMusicApp</string>
+    <string name="musicplayer_text_title">Tap to give the package name of your media player</string> 
+</resources>
